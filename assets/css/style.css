@@ -3,11 +3,6 @@
 \*-----------------------------------*/
 
 
-/**
- * copyright 2022 @codewithsadee
- */
-
-
 
 
 
@@ -316,7 +311,7 @@ main {
 
 .sidebar {
   margin-bottom: 15px;
-  max-height: 112px;
+  max-height: 142px;
   overflow: hidden;
   transition: var(--transition-2);
 }
